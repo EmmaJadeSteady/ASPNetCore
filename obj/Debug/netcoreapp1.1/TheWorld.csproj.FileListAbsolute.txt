@@ -1,0 +1,8 @@
+c:\Users\lenovo\Documents\angularproject\aspcore\03-html-and-css-basics\html-and-css-basics-exercise-files\m02\Before\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.deps.json
+c:\Users\lenovo\Documents\angularproject\aspcore\03-html-and-css-basics\html-and-css-basics-exercise-files\m02\Before\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.json
+c:\Users\lenovo\Documents\angularproject\aspcore\03-html-and-css-basics\html-and-css-basics-exercise-files\m02\Before\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.dev.json
+c:\Users\lenovo\Documents\angularproject\aspcore\03-html-and-css-basics\html-and-css-basics-exercise-files\m02\Before\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.dll
+c:\Users\lenovo\Documents\angularproject\aspcore\03-html-and-css-basics\html-and-css-basics-exercise-files\m02\Before\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.pdb
+c:\Users\lenovo\Documents\angularproject\aspcore\03-html-and-css-basics\html-and-css-basics-exercise-files\m02\Before\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfo.cs
+c:\Users\lenovo\Documents\angularproject\aspcore\03-html-and-css-basics\html-and-css-basics-exercise-files\m02\Before\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.dll
+c:\Users\lenovo\Documents\angularproject\aspcore\03-html-and-css-basics\html-and-css-basics-exercise-files\m02\Before\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.pdb
